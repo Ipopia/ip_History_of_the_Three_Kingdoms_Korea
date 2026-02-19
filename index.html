@@ -222,8 +222,8 @@
       plugins: [
         function(hook) {
           hook.doneEach(function() {
-            var sidebar = document.querySelector('.sidebar');
-            if (sidebar) sidebar.scrollTop = 0;
+            var content = document.querySelector('.content');
+            if (content) content.scrollTop = 0;
           });
         }
       ],
