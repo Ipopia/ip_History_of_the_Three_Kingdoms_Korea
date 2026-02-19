@@ -5,11 +5,162 @@
   <title>삼국(三國) IP</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="역사 IP — 고구려·백제·신라·가야 4인의 이야기">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
   <style>
+    /* ── 기본 색상 ── */
     :root {
-      --theme-color: #8B4513;
+      --theme-color: #c9a84c;
+      --base-background-color: #0e0c0a;
+      --base-font-family: 'Noto Serif KR', 'Nanum Myeongjo', Georgia, serif;
+      --base-font-size: 16px;
+      --base-line-height: 1.9;
+      --base-color: #e8dfc8;
+      --sidebar-width: 260px;
     }
+
+    /* ── 전체 배경 ── */
+    body { background: #0e0c0a; }
+
+    /* ── 사이드바 ── */
+    .sidebar {
+      background: #161410 !important;
+      border-right: 1px solid #3a2e1e !important;
+      font-family: 'Noto Serif KR', serif;
+    }
+    .sidebar-nav ul li a {
+      color: #c9b98a !important;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+    .sidebar-nav ul li a:hover {
+      color: #e6c96b !important;
+      text-decoration: none;
+    }
+    .sidebar-nav ul li strong {
+      color: #c9a84c !important;
+      font-size: 13px;
+      letter-spacing: 0.05em;
+    }
+    .sidebar > h1 a {
+      color: #c9a84c !important;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+    }
+    .sidebar-toggle { background: #161410 !important; }
+
+    /* ── 본문 영역 ── */
+    .content { background: #0e0c0a; }
+    .markdown-section {
+      max-width: 860px !important;
+      margin: 0 auto !important;
+      padding: 40px 48px !important;
+      color: #e8dfc8;
+      font-family: 'Noto Serif KR', serif;
+    }
+
+    /* ── 제목 ── */
+    .markdown-section h1 {
+      color: #c9a84c;
+      border-bottom: 1px solid #3a2e1e;
+      padding-bottom: 12px;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+    }
+    .markdown-section h2 {
+      color: #d4b96e;
+      border-bottom: 1px solid #2a2018;
+      padding-bottom: 8px;
+      margin-top: 2em;
+      font-weight: 400;
+    }
+    .markdown-section h3 {
+      color: #c9b98a;
+      font-weight: 400;
+    }
+
+    /* ── 링크 ── */
+    .markdown-section a {
+      color: #c9a84c !important;
+      text-decoration: none;
+      border-bottom: 1px solid #3a2e1e;
+    }
+    .markdown-section a:hover {
+      color: #e6c96b !important;
+      border-bottom-color: #c9a84c;
+    }
+
+    /* ── 표 ── */
+    .markdown-section table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    .markdown-section th {
+      background: #1e1a14 !important;
+      color: #c9a84c !important;
+      border: 1px solid #3a2e1e !important;
+      padding: 10px 14px;
+      font-weight: 500;
+    }
+    .markdown-section td {
+      border: 1px solid #2a2018 !important;
+      padding: 8px 14px;
+      color: #e0d5bc;
+    }
+    .markdown-section tr:nth-child(even) td {
+      background: #121008;
+    }
+
+    /* ── 코드 ── */
+    .markdown-section code {
+      background: #1e1a14;
+      color: #c9b98a;
+      border-radius: 3px;
+      padding: 2px 6px;
+      font-size: 0.88em;
+    }
+    .markdown-section pre {
+      background: #1a1610 !important;
+      border: 1px solid #3a2e1e;
+      border-radius: 6px;
+    }
+    .markdown-section pre code {
+      background: transparent;
+      color: #d4c9a8;
+    }
+
+    /* ── 인용 ── */
+    .markdown-section blockquote {
+      border-left: 3px solid #c9a84c;
+      background: #141008;
+      color: #b8ad92;
+      margin: 1.5em 0;
+      padding: 12px 20px;
+    }
+
+    /* ── 구분선 ── */
+    .markdown-section hr {
+      border-color: #3a2e1e;
+      margin: 2em 0;
+    }
+
+    /* ── 검색창 ── */
+    .search input {
+      background: #1e1a14 !important;
+      color: #e8dfc8 !important;
+      border: 1px solid #3a2e1e !important;
+      border-radius: 4px;
+    }
+    .search input::placeholder { color: #6a5f48 !important; }
+    .search .clear-button { color: #6a5f48 !important; }
+
+    /* ── 스크롤바 ── */
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: #0e0c0a; }
+    ::-webkit-scrollbar-thumb { background: #3a2e1e; border-radius: 3px; }
+    ::-webkit-scrollbar-thumb:hover { background: #c9a84c; }
   </style>
 </head>
 <body>
