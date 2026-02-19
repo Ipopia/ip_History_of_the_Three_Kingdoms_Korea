@@ -5,6 +5,18 @@
 
 ---
 
+- **세계관**
+  - [용어 사전](ip-creation/worldbuilding/core/glossary.md)
+  - [마스터 바이블](ip-creation/worldbuilding/core/master-bible.md)
+  - [지리·지도](ip-creation/worldbuilding/geography/geography-map.md)
+
+- **캐릭터**
+  - [주인공 4인](ip-creation/characters/profiles/main-characters.md)
+  - [역사 인물](ip-creation/characters/profiles/historical-characters.md)
+  - [서사 구조 (7시즌)](ip-creation/narrative/plot/arc-structure.md)
+
+---
+
 - **소설**
   - [「천하의 봄」 1~3화](publishing/novel/three-kingdoms-spring/novel-draft-chapter1-3.md)
   - [「천하의 봄」 4~6화](publishing/novel/three-kingdoms-spring/novel-draft-chapter4-6.md)
@@ -52,18 +64,6 @@
   - [EP01~10](publishing/webnovel/webnovel-ep1-10.md)
   - [EP11~20](publishing/webnovel/webnovel-ep11-20.md)
   - [EP21~40](publishing/webnovel/webnovel-ep21-40-text.md)
-
----
-
-- **세계관**
-  - [용어 사전](ip-creation/worldbuilding/core/glossary.md)
-  - [마스터 바이블](ip-creation/worldbuilding/core/master-bible.md)
-  - [지리·지도](ip-creation/worldbuilding/geography/geography-map.md)
-
-- **캐릭터**
-  - [주인공 4인](ip-creation/characters/profiles/main-characters.md)
-  - [역사 인물](ip-creation/characters/profiles/historical-characters.md)
-  - [서사 구조 (7시즌)](ip-creation/narrative/plot/arc-structure.md)
 
 ---
 
