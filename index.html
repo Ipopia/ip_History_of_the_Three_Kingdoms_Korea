@@ -219,6 +219,14 @@
         noData: '결과 없음',
         depth: 3,
       },
+      plugins: [
+        function(hook) {
+          hook.doneEach(function() {
+            var sidebar = document.querySelector('.sidebar');
+            if (sidebar) sidebar.scrollTop = 0;
+          });
+        }
+      ],
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
