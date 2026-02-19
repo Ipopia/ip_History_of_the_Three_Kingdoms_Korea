@@ -5,6 +5,18 @@
 
 ---
 
+- **고증 자문**
+  - [역사 타임라인](advisory/history/historical-timeline.md)
+  - [삼국사기 주요 기록](advisory/history/samguk-sagi-key-records.md)
+  - [전투 전술](advisory/military/warfare-tactics.md)
+  - [무기·갑옷](advisory/military/weapons-armor.md)
+  - [공성전](advisory/military/siege-warfare.md)
+  - [한국 신화](advisory/mythology/korean-mythology.md)
+  - [불교·삼국](advisory/mythology/buddhism-three-kingdoms.md)
+  - [고대 한국어](advisory/linguistics/ancient-korean-glossary.md)
+
+---
+
 - **세계관**
   - [용어 사전](ip-creation/worldbuilding/core/glossary.md)
   - [마스터 바이블](ip-creation/worldbuilding/core/master-bible.md)
@@ -76,18 +88,6 @@
   - [Ch.5 백제 멸망](game/story/chapter5-baekje.md)
   - [Ch.6 고구려](game/story/chapter6-goguryeo.md)
   - [Ch.7 피날레](game/story/chapter7-finale.md)
-
----
-
-- **고증 자문**
-  - [역사 타임라인](advisory/history/historical-timeline.md)
-  - [삼국사기 주요 기록](advisory/history/samguk-sagi-key-records.md)
-  - [전투 전술](advisory/military/warfare-tactics.md)
-  - [무기·갑옷](advisory/military/weapons-armor.md)
-  - [공성전](advisory/military/siege-warfare.md)
-  - [한국 신화](advisory/mythology/korean-mythology.md)
-  - [불교·삼국](advisory/mythology/buddhism-three-kingdoms.md)
-  - [고대 한국어](advisory/linguistics/ancient-korean-glossary.md)
 
 ---
 
