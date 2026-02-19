@@ -25,18 +25,18 @@
     body { background: #0e0c0a; }
 
     /* ── 전체 레이아웃 중앙 정렬 ── */
-    /* 사이드바(260) + 콘텐츠(900) = 1160px 블록을 뷰포트 중앙에 배치 */
-    @media (min-width: 1200px) {
+    /* 사이드바(260) + 콘텐츠(1100) = 1360px 블록을 뷰포트 중앙에 배치 */
+    @media (min-width: 1400px) {
       .sidebar {
-        left: calc((100vw - 1160px) / 2) !important;
+        left: calc((100vw - 1360px) / 2) !important;
       }
       .content {
-        left: calc((100vw - 1160px) / 2 + 260px) !important;
+        left: calc((100vw - 1360px) / 2 + 260px) !important;
         right: auto !important;
-        width: 900px !important;
+        width: 1100px !important;
       }
       .sidebar-toggle {
-        left: calc((100vw - 1160px) / 2 + 260px) !important;
+        left: calc((100vw - 1360px) / 2 + 260px) !important;
       }
     }
 
@@ -71,11 +71,12 @@
     .content {
       background: #0e0c0a;
       padding-top: 0 !important;
+      padding-left: 48px !important;
     }
     .markdown-section {
-      max-width: 860px !important;
-      margin: 0 auto !important;
-      padding: 16px 48px 40px !important;
+      max-width: 100% !important;
+      margin: 0 !important;
+      padding: 16px 48px 40px 0 !important;
       color: #e8dfc8;
       font-family: 'Noto Serif KR', serif;
     }
@@ -185,6 +186,11 @@
     ::-webkit-scrollbar-track { background: #0e0c0a; }
     ::-webkit-scrollbar-thumb { background: #3a2e1e; border-radius: 3px; }
     ::-webkit-scrollbar-thumb:hover { background: #c9a84c; }
+    /* 사이드바 스크롤바 두껍게 */
+    .sidebar::-webkit-scrollbar { width: 10px; }
+    .sidebar::-webkit-scrollbar-track { background: #161410; }
+    .sidebar::-webkit-scrollbar-thumb { background: #4a3a22; border-radius: 4px; }
+    .sidebar::-webkit-scrollbar-thumb:hover { background: #c9a84c; }
   </style>
 </head>
 <body>
