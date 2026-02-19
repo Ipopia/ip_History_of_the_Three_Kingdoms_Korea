@@ -24,6 +24,18 @@
     /* ── 전체 배경 ── */
     body { background: #0e0c0a; }
 
+    /* ── 전체 레이아웃 중앙 정렬 ── */
+    /* 사이드바(260) + 콘텐츠(900) = 1160px 기준 뷰포트 중앙 */
+    .sidebar {
+      left: max(0px, calc((100vw - 1160px) / 2)) !important;
+    }
+    .content {
+      margin-left: calc(max(0px, (100vw - 1160px) / 2) + var(--sidebar-width)) !important;
+    }
+    .sidebar-toggle {
+      left: calc(max(0px, (100vw - 1160px) / 2) + var(--sidebar-width)) !important;
+    }
+
     /* ── 사이드바 ── */
     .sidebar {
       background: #161410 !important;
