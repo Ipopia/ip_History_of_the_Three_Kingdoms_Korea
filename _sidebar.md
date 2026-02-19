@@ -76,3 +76,33 @@
   - [Ch.5 백제 멸망](game/story/chapter5-baekje.md)
   - [Ch.6 고구려](game/story/chapter6-goguryeo.md)
   - [Ch.7 피날레](game/story/chapter7-finale.md)
+
+---
+
+- **아트 가이드**
+  - [아트 바이블](art/art-bible.md)
+  - [캐릭터 디자인](art/character-design-guide.md)
+  - [스타일 가이드](art/style-guide.md)
+  - [배경 아트](art/background-art-guide.md)
+  - [의상·소품](art/costume-props-design.md)
+  - [VFX](art/vfx-effects-guide.md)
+
+---
+
+- **음악·사운드**
+  - [사운드 바이블](audio/sound-bible.md)
+  - [OST 트랙리스트](audio/ost-tracklist.md)
+  - [음악 제작 가이드](audio/music-production-guide.md)
+  - [성우 연출](audio/voice-direction.md)
+
+---
+
+- **고증 자문**
+  - [역사 타임라인](advisory/history/historical-timeline.md)
+  - [삼국사기 주요 기록](advisory/history/samguk-sagi-key-records.md)
+  - [전투 전술](advisory/military/warfare-tactics.md)
+  - [무기·갑옷](advisory/military/weapons-armor.md)
+  - [공성전](advisory/military/siege-warfare.md)
+  - [한국 신화](advisory/mythology/korean-mythology.md)
+  - [불교·삼국](advisory/mythology/buddhism-three-kingdoms.md)
+  - [고대 한국어](advisory/linguistics/ancient-korean-glossary.md)
