@@ -79,6 +79,18 @@
 
 ---
 
+- **고증 자문**
+  - [역사 타임라인](advisory/history/historical-timeline.md)
+  - [삼국사기 주요 기록](advisory/history/samguk-sagi-key-records.md)
+  - [전투 전술](advisory/military/warfare-tactics.md)
+  - [무기·갑옷](advisory/military/weapons-armor.md)
+  - [공성전](advisory/military/siege-warfare.md)
+  - [한국 신화](advisory/mythology/korean-mythology.md)
+  - [불교·삼국](advisory/mythology/buddhism-three-kingdoms.md)
+  - [고대 한국어](advisory/linguistics/ancient-korean-glossary.md)
+
+---
+
 - **아트 가이드**
   - [아트 바이블](art/art-bible.md)
   - [캐릭터 디자인](art/character-design-guide.md)
@@ -94,15 +106,3 @@
   - [OST 트랙리스트](audio/ost-tracklist.md)
   - [음악 제작 가이드](audio/music-production-guide.md)
   - [성우 연출](audio/voice-direction.md)
-
----
-
-- **고증 자문**
-  - [역사 타임라인](advisory/history/historical-timeline.md)
-  - [삼국사기 주요 기록](advisory/history/samguk-sagi-key-records.md)
-  - [전투 전술](advisory/military/warfare-tactics.md)
-  - [무기·갑옷](advisory/military/weapons-armor.md)
-  - [공성전](advisory/military/siege-warfare.md)
-  - [한국 신화](advisory/mythology/korean-mythology.md)
-  - [불교·삼국](advisory/mythology/buddhism-three-kingdoms.md)
-  - [고대 한국어](advisory/linguistics/ancient-korean-glossary.md)
