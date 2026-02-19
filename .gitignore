@@ -13,6 +13,14 @@ CODEOWNERS
 MEMORY.md
 canon/_meta/lock-map.yml
 
+# === 비즈니스/사업 관련 (공개 제외) ===
+marketing/
+legal/
+global/
+merchandise/
+live/
+digital/
+
 # === OS 시스템 파일 ===
 .DS_Store
 Thumbs.db
