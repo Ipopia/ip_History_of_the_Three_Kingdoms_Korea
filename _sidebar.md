@@ -28,13 +28,9 @@
   - [무속 신앙](advisory/mythology/korean-shamanism.md)
   - [신화 생물](advisory/mythology/mythical-beings.md)
 
-- **고증 자문 — 언어·문학**
+- **고증 자문 — 언어**
   - [고대 한국어](advisory/linguistics/ancient-korean-glossary.md)
-  - [대화 문체 가이드](advisory/linguistics/dialogue-style-guide.md)
   - [명명 규칙](advisory/linguistics/naming-conventions.md)
-  - [문학적 기법](advisory/humanities/literary-devices.md)
-  - [서사 구조론](advisory/humanities/narrative-structure.md)
-  - [주제 분석](advisory/humanities/theme-analysis.md)
 
 - **고증 자문 — 문화·예술**
   - [건축 양식](advisory/arts-culture/architecture-styles.md)
@@ -46,9 +42,7 @@
   - [문화·의례](advisory/culture/cultural-arts-reference.md)
   - [의례·의식](advisory/culture/ritual-ceremony.md)
 
-- **고증 자문 — 인문·사상**
-  - [역사 철학](advisory/humanities/historical-philosophy.md)
-  - [비교 신화학](advisory/humanities/comparative-mythology.md)
+- **고증 자문 — 정치·경제**
   - [정치 체계 분석](advisory/political-economy/political-systems-analysis.md)
   - [외교](advisory/political-economy/diplomacy.md)
   - [외교사](advisory/political-economy/diplomatic-history.md)
@@ -59,6 +53,20 @@
   - [유물 가이드](advisory/archaeology/artifact-guide.md)
   - [발굴 참고자료](advisory/archaeology/excavation-references.md)
   - [천문학](advisory/science/astronomy.md)
+
+---
+
+- **창작 자문 — 서사·구조**
+  - [서사 구조론](advisory/humanities/narrative-structure.md)
+  - [주제 분석](advisory/humanities/theme-analysis.md)
+
+- **창작 자문 — 문장·대화**
+  - [문학적 기법](advisory/humanities/literary-devices.md)
+  - [대화 문체 가이드](advisory/linguistics/dialogue-style-guide.md)
+
+- **창작 자문 — 인문 참고**
+  - [역사 철학](advisory/humanities/historical-philosophy.md)
+  - [비교 신화학](advisory/humanities/comparative-mythology.md)
 
 ---
 
