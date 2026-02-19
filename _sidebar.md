@@ -5,15 +5,60 @@
 
 ---
 
-- **고증 자문**
+- **고증 자문 — 역사**
   - [역사 타임라인](advisory/history/historical-timeline.md)
   - [삼국사기 주요 기록](advisory/history/samguk-sagi-key-records.md)
+  - [고증 가이드](advisory/history/historical-accuracy-guide.md)
+  - [고고학적 증거](advisory/history/archaeological-evidence.md)
+  - [외교 기록](advisory/history/diplomatic-records.md)
+  - [역사적 오해](advisory/history/common-misconceptions.md)
+
+- **고증 자문 — 군사**
   - [전투 전술](advisory/military/warfare-tactics.md)
   - [무기·갑옷](advisory/military/weapons-armor.md)
   - [공성전](advisory/military/siege-warfare.md)
+  - [주요 전투](advisory/military/famous-battles.md)
+  - [성곽·요새](advisory/military/fortification-guide.md)
+  - [수군·해전](advisory/military/naval-warfare.md)
+
+- **고증 자문 — 신화·종교**
   - [한국 신화](advisory/mythology/korean-mythology.md)
   - [불교·삼국](advisory/mythology/buddhism-three-kingdoms.md)
+  - [유교·도교](advisory/mythology/confucianism-taoism.md)
+  - [무속 신앙](advisory/mythology/korean-shamanism.md)
+  - [신화 생물](advisory/mythology/mythical-beings.md)
+
+- **고증 자문 — 언어·문학**
   - [고대 한국어](advisory/linguistics/ancient-korean-glossary.md)
+  - [대화 문체 가이드](advisory/linguistics/dialogue-style-guide.md)
+  - [명명 규칙](advisory/linguistics/naming-conventions.md)
+  - [문학적 기법](advisory/humanities/literary-devices.md)
+  - [서사 구조론](advisory/humanities/narrative-structure.md)
+  - [주제 분석](advisory/humanities/theme-analysis.md)
+
+- **고증 자문 — 문화·예술**
+  - [건축 양식](advisory/arts-culture/architecture-styles.md)
+  - [예술 형태](advisory/arts-culture/art-forms.md)
+  - [복식 가이드](advisory/arts-culture/costume-guide.md)
+  - [복식 참고자료](advisory/arts-culture/costume-reference.md)
+  - [전통 음악](advisory/arts-culture/traditional-music.md)
+  - [시각 자료 노트](advisory/arts-culture/visual-reference-notes.md)
+  - [문화·의례](advisory/culture/cultural-arts-reference.md)
+  - [의례·의식](advisory/culture/ritual-ceremony.md)
+
+- **고증 자문 — 인문·사상**
+  - [역사 철학](advisory/humanities/historical-philosophy.md)
+  - [비교 신화학](advisory/humanities/comparative-mythology.md)
+  - [정치 체계 분석](advisory/political-economy/political-systems-analysis.md)
+  - [외교](advisory/political-economy/diplomacy.md)
+  - [외교사](advisory/political-economy/diplomatic-history.md)
+  - [무역·외교](advisory/political-economy/trade-diplomacy.md)
+  - [경제 이론](advisory/political-economy/economic-theory.md)
+
+- **고증 자문 — 고고학·과학**
+  - [유물 가이드](advisory/archaeology/artifact-guide.md)
+  - [발굴 참고자료](advisory/archaeology/excavation-references.md)
+  - [천문학](advisory/science/astronomy.md)
 
 ---
 
