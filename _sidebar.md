@@ -84,7 +84,7 @@
 
 - **소설**
   - [「천하의 봄」 1~3화](publishing/novel/three-kingdoms-spring/novel-draft-chapter1-3.md)
-  - [「강은 기억한다」 4~6장](publishing/novel/river-remembers/novel-chapter4-6.md)
+  - [「강은 기억한다」 1~3장](publishing/novel/river-remembers/novel-chapter1-3.md)
 
 ---
 
