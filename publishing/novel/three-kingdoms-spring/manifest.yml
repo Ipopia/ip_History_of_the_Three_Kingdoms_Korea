@@ -1,0 +1,30 @@
+# publishing/novel/three-kingdoms-spring/manifest.yml
+project: "삼국: 천하의 봄 (Three Kingdoms: Spring of the Realm)"
+media_type: novel
+subtype: serialized
+layer: 1
+status: DRAFT
+version: "1.0"
+positioning: "메인 장편 소설 시리즈 (5권 체계). 3인칭 제한 시점. 4인 교차 서술."
+note: |
+  고루 중심 서사. 화(話) 단위.
+  현황: 1권 ch1-12 + 프롤로그·에필로그 draft 완성 (90%) + volume 1~5 시놉시스 완성.
+  구조: 프롤로그(676년 기벌포) → ch1-12(612년 살수대첩) → 에필로그(676년 기억).
+  파일: novel-draft-chapter1-3.md / 4-6 / 7-9 / 10-12 / prologue-epilogue.md
+  다음 단계: 1권 편집 교정 → 2권 ch1 집필 시작.
+next_action: "1권 편집 교정 완료 → 출판 준비 → 2권 ch1 착수"
+
+canon_refs:
+  - ip-creation/worldbuilding/core/glossary.md
+  - ip-creation/worldbuilding/core/world-overview.md
+  - ip-creation/worldbuilding/core/master-bible.md
+  - ip-creation/characters/profiles/main-characters.md
+  - ip-creation/characters/profiles/character-sheets/goguryeo-characters.md
+  - ip-creation/characters/profiles/character-sheets/baekje-characters.md
+  - ip-creation/characters/profiles/character-sheets/silla-characters.md
+  - ip-creation/characters/profiles/character-sheets/gaya-characters.md
+  - ip-creation/worldbuilding/geography/geography-map.md
+  - ip-creation/worldbuilding/lore/chronicles.md
+  - ip-creation/worldbuilding/lore/historical-events.md
+  - ip-creation/narrative/plot/arc-structure.md
+  - ip-creation/narrative/plot/master-outline.md

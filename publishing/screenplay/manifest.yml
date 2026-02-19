@@ -1,0 +1,22 @@
+# publishing/screenplay/manifest.yml
+project: "삼국 드라마 각본 (Three Kingdoms Drama Screenplay)"
+media_type: screenplay
+layer: 1
+status: DRAFT
+version: "1.0"
+note: "드라마 각본 2개 존재."
+
+canon_refs:
+  - ip-creation/worldbuilding/core/glossary.md
+  - ip-creation/worldbuilding/core/world-overview.md
+  - ip-creation/worldbuilding/core/master-bible.md
+  - ip-creation/characters/profiles/main-characters.md
+  - ip-creation/characters/profiles/character-sheets/goguryeo-characters.md
+  - ip-creation/characters/profiles/character-sheets/baekje-characters.md
+  - ip-creation/characters/profiles/character-sheets/silla-characters.md
+  - ip-creation/characters/profiles/character-sheets/gaya-characters.md
+  - ip-creation/worldbuilding/geography/geography-map.md
+  - ip-creation/worldbuilding/lore/historical-events.md
+  - ip-creation/narrative/plot/arc-structure.md
+  - ip-creation/narrative/plot/master-outline.md
+  - ip-creation/systems/politics-military/inter-state-relations.md

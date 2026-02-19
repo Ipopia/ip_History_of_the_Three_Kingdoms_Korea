@@ -1,0 +1,25 @@
+# publishing/novel/river-remembers/manifest.yml
+project: "강은 기억한다 (River Remembers)"
+media_type: novel
+subtype: omnibus
+layer: 1
+status: DRAFT
+version: "1.0"
+positioning: "옴니버스 단편집. 1인칭 시점. 각 장이 독립 에피소드. BC37~676년 전 시간대."
+note: |
+  ch4-24 존재 (7편 완성). ch1-3은 S-QA-011-ext에서 삭제됨 (복구 불가).
+  「천하의 봄」(장편)과 병행하는 별도 시리즈.
+next_action: "ch1-3 재집필 (주몽 건국기 서사) → 24장 전체 일관성 편집"
+
+canon_refs:
+  - ip-creation/worldbuilding/core/glossary.md
+  - ip-creation/worldbuilding/core/world-overview.md
+  - ip-creation/worldbuilding/core/master-bible.md
+  - ip-creation/characters/profiles/main-characters.md
+  - ip-creation/characters/profiles/character-sheets/goguryeo-characters.md
+  - ip-creation/characters/profiles/character-sheets/baekje-characters.md
+  - ip-creation/characters/profiles/character-sheets/silla-characters.md
+  - ip-creation/characters/profiles/character-sheets/gaya-characters.md
+  - ip-creation/worldbuilding/geography/geography-map.md
+  - ip-creation/worldbuilding/lore/chronicles.md
+  - ip-creation/worldbuilding/lore/historical-events.md

@@ -1,0 +1,17 @@
+# publishing/manga/manifest.yml
+project: "삼국 만화 (Three Kingdoms Manga)"
+media_type: manga
+layer: 1
+status: SCRIPT
+version: "1.0"
+
+canon_refs:
+  - ip-creation/worldbuilding/core/glossary.md
+  - ip-creation/worldbuilding/core/world-overview.md
+  - ip-creation/characters/profiles/main-characters.md
+  - ip-creation/characters/profiles/character-sheets/goguryeo-characters.md
+  - ip-creation/characters/profiles/character-sheets/baekje-characters.md
+  - ip-creation/characters/profiles/character-sheets/silla-characters.md
+  - ip-creation/characters/profiles/character-sheets/gaya-characters.md
+  - ip-creation/worldbuilding/geography/geography-map.md
+  - ip-creation/systems/culture/clothing.md

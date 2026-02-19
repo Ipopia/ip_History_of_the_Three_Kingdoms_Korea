@@ -1,0 +1,19 @@
+# publishing/webnovel/manifest.yml
+project: "삼국 웹소설 (Three Kingdoms Web Novel)"
+media_type: webnovel
+layer: 1
+status: DRAFT
+version: "1.0"
+note: "pilot + ep21-40 존재."
+
+canon_refs:
+  - ip-creation/worldbuilding/core/glossary.md
+  - ip-creation/worldbuilding/core/world-overview.md
+  - ip-creation/worldbuilding/core/master-bible.md
+  - ip-creation/characters/profiles/main-characters.md
+  - ip-creation/characters/profiles/character-sheets/goguryeo-characters.md
+  - ip-creation/characters/profiles/character-sheets/baekje-characters.md
+  - ip-creation/characters/profiles/character-sheets/silla-characters.md
+  - ip-creation/worldbuilding/lore/chronicles.md
+  - ip-creation/worldbuilding/lore/historical-events.md
+  - ip-creation/narrative/plot/master-outline.md

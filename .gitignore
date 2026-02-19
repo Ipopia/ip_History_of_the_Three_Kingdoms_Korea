@@ -1,0 +1,28 @@
+# === 내부 운영 파일 (공개 제외) ===
+_cr/
+_schema/
+_project/
+quality/
+scripts/
+validators/
+.claude/
+.githooks/
+.github/
+CLAUDE.md
+CODEOWNERS
+MEMORY.md
+canon/_meta/lock-map.yml
+
+# === OS 시스템 파일 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === 임시/빌드 파일 ===
+*.tmp
+*.bak
+*.swp
+*~
+.jekyll-cache/
+_site/
+node_modules/
